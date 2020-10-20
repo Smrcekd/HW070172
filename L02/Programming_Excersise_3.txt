@@ -1,0 +1,73 @@
+#programming excersise 3
+There is a difference caused by the higher precision of the K number.
+As long as the K number is 2 instead of 3.9, the chaos is reduced, and after certain number of calculations
+always comes to 0,5. When inserting number =
+0,8 - it takes 7 calculations
+0,77 - 6 calculations
+0,25 - 6 calculations
+When the number is 3.9, it seems way more chaotical.
+The exact results:
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.25
+0.375
+0.46875
+0.498046875
+0.49999237060546875
+0.4999999998835847
+0.5
+0.5
+0.5
+0.5
+0.5
+>>> main()
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+>>> main()
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 08
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    main()
+  File "C:\Users\dsmrc\Desktop\DHkurz\Python\chaos.py", line 6, in main
+    x = eval(input("Enter a number between 0 and 1: "))
+  File "<string>", line 1
+    08
+     ^
+SyntaxError: invalid token
+>>> main()
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.8
+0.31999999999999995
+0.4352
+0.49160191999999997
+0.49985894450462726
+0.4999999602066944
+0.4999999999999968
+0.5
+0.5
+0.5
+0.5
+>>> main()
+This program illustrates a chaotic function
+Enter a number between 0 and 1: 0.77
+0.35419999999999996
+0.45748471999999996
+0.4963849019330432
+0.49997386213193257
+0.49999999863362377
+0.5
+0.5
+0.5
+0.5
+0.5
+>>> 
