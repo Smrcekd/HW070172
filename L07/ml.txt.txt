@@ -1,0 +1,36 @@
+@online{2016,
+  title = {R},
+  date = {2016-09-02T11:48:35+00:00},
+  journaltitle = {
+Spatial.ly
+},
+  url = {
+http://spatial.ly/r/
+},
+  urldate = {2018-08-21},
+  abstract = {Visit the post for more.},
+  file = {/path/to/file/ZoteroApp/storage/KFXFAWH2/r.html},
+  langid = {american}
+}
+
+@book{AbbottStudies1957,
+  title = {Studies in {{Arabic}} Literary Papyri: {{I}}. {{Historical Texts}}},
+  author = {Abbott, Nabia},
+  date = {1957},
+  publisher = {{Univ. of Chicago Press}},
+  location = {{Chicago}},
+  annotation = {OCLC: 716755298},
+  file = {/path/to/file/ZoteroBooks/AbbottN/Abbott 1957 - Studies in Arabic literary papyri.pdf},
+  langid = {english}
+}
+
+@book{AbbottStudies1967,
+  title = {Studies in {{Arabic}} Literary Papyri: {{II}}. {{Qurānic}} Commentary and Tradition},
+  author = {Abbott, Nabia},
+  date = {1967},
+  publisher = {{University of Chicago Press}},
+  location = {{Chicago}},
+  annotation = {OCLC: 29345724},
+  file = {/path/to/file/ZoteroBooks/AbbottN/Abbott 1967 - Studies in Arabic literary papyri.pdf},
+  langid = {english}
+}
